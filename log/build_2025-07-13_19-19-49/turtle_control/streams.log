@@ -1,0 +1,22 @@
+[5.773s] Invoking command in '/home/shimanto-khan/ros2_ws/src/turtle_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shimanto-khan/ros2_ws/build/turtle_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/ros2_ws/install/turtle_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_control build --build-base /home/shimanto-khan/ros2_ws/build/turtle_control/build install --record /home/shimanto-khan/ros2_ws/build/turtle_control/install.log --single-version-externally-managed install_data
+[6.353s] running egg_info
+[6.398s] writing ../../build/turtle_control/turtle_control.egg-info/PKG-INFO
+[6.399s] writing dependency_links to ../../build/turtle_control/turtle_control.egg-info/dependency_links.txt
+[6.399s] writing entry points to ../../build/turtle_control/turtle_control.egg-info/entry_points.txt
+[6.399s] writing requirements to ../../build/turtle_control/turtle_control.egg-info/requires.txt
+[6.400s] writing top-level names to ../../build/turtle_control/turtle_control.egg-info/top_level.txt
+[6.490s] reading manifest file '../../build/turtle_control/turtle_control.egg-info/SOURCES.txt'
+[6.492s] writing manifest file '../../build/turtle_control/turtle_control.egg-info/SOURCES.txt'
+[6.492s] running build
+[6.492s] running build_py
+[6.493s] running install
+[6.506s] running install_lib
+[6.552s] running install_data
+[6.552s] running install_egg_info
+[6.599s] removing '/home/shimanto-khan/ros2_ws/install/turtle_control/lib/python3.12/site-packages/turtle_control-0.0.1-py3.12.egg-info' (and everything under it)
+[6.600s] Copying ../../build/turtle_control/turtle_control.egg-info to /home/shimanto-khan/ros2_ws/install/turtle_control/lib/python3.12/site-packages/turtle_control-0.0.1-py3.12.egg-info
+[6.601s] running install_scripts
+[6.887s] Installing figure8_driver script to /home/shimanto-khan/ros2_ws/install/turtle_control/lib/turtle_control
+[6.887s] Installing trace_toggle_service script to /home/shimanto-khan/ros2_ws/install/turtle_control/lib/turtle_control
+[6.888s] writing list of installed files to '/home/shimanto-khan/ros2_ws/build/turtle_control/install.log'
+[6.933s] Invoked command in '/home/shimanto-khan/ros2_ws/src/turtle_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/shimanto-khan/ros2_ws/build/turtle_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/ros2_ws/install/turtle_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_control build --build-base /home/shimanto-khan/ros2_ws/build/turtle_control/build install --record /home/shimanto-khan/ros2_ws/build/turtle_control/install.log --single-version-externally-managed install_data
